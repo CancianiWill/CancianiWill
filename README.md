@@ -1,6 +1,7 @@
 # Sobre Mim
 
 Olá! Eu sou William Bernardes, um entusiasta de tecnologia e programação. Neste perfil, você encontrará informações sobre meu trabalho, projetos e formas de entrar em contato comigo.
+Atualmente estou estudando React tambem!
 
 ## Linguagens e Tecnologias
 
@@ -9,6 +10,7 @@ Olá! Eu sou William Bernardes, um entusiasta de tecnologia e programação. Nes
 [![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5E5E5E?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-5E5E5E?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+
 
 ## Contato
 
