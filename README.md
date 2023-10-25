@@ -16,7 +16,7 @@ Atualmente estou estudando React tambem!
 
 Você pode entrar em contato comigo por meio do LinkedIn ou do Gmail:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B8145257-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/william-bernardes-0b8145257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B8145257-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cancianiwill/)
 [![Gmail](https://img.shields.io/badge/Gmail-williamcanciani%40gmail.com-5E5E5E?style=for-the-badge&logo=gmail)](mailto:williamcanciani@gmail.com)
 
 Ficarei feliz em me conectar e discutir oportunidades de colaboração ou responder a qualquer pergunta que você possa ter.
